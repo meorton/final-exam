@@ -1,0 +1,11 @@
+C:\final exam\Exam Emmanuel\Exam Emmanuel\bin\Debug\netcoreapp2.1\Exam Emmanuel.deps.json
+C:\final exam\Exam Emmanuel\Exam Emmanuel\bin\Debug\netcoreapp2.1\Exam Emmanuel.runtimeconfig.json
+C:\final exam\Exam Emmanuel\Exam Emmanuel\bin\Debug\netcoreapp2.1\Exam Emmanuel.runtimeconfig.dev.json
+C:\final exam\Exam Emmanuel\Exam Emmanuel\bin\Debug\netcoreapp2.1\Exam Emmanuel.dll
+C:\final exam\Exam Emmanuel\Exam Emmanuel\bin\Debug\netcoreapp2.1\Exam Emmanuel.pdb
+C:\final exam\Exam Emmanuel\Exam Emmanuel\obj\Debug\netcoreapp2.1\Exam Emmanuel.csprojAssemblyReference.cache
+C:\final exam\Exam Emmanuel\Exam Emmanuel\obj\Debug\netcoreapp2.1\Exam Emmanuel.csproj.CoreCompileInputs.cache
+C:\final exam\Exam Emmanuel\Exam Emmanuel\obj\Debug\netcoreapp2.1\Exam Emmanuel.AssemblyInfoInputs.cache
+C:\final exam\Exam Emmanuel\Exam Emmanuel\obj\Debug\netcoreapp2.1\Exam Emmanuel.AssemblyInfo.cs
+C:\final exam\Exam Emmanuel\Exam Emmanuel\obj\Debug\netcoreapp2.1\Exam Emmanuel.dll
+C:\final exam\Exam Emmanuel\Exam Emmanuel\obj\Debug\netcoreapp2.1\Exam Emmanuel.pdb
